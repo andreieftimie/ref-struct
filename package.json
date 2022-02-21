@@ -22,12 +22,12 @@
   },
   "dependencies": {
     "debug": "4",
-    "ref": "andreieftimie/ref#node-12-electron-7"
+    "ref": "git+https://github.com/andreieftimie/ref#node-12-electron-7"
   },
   "devDependencies": {
     "bindings": "~1.5.0",
     "nan": "2",
     "mocha": "*",
-    "ref-array": "andreieftimie/ref-array#node-12-electron-7"
+    "ref-array": "git+https://github.com/andreieftimie/ref-array#node-16-electron-16"
   }
 }
